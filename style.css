@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: red;
+    color: white;
+    width: 50%;
+    height: 80px;
+    line-height: 80px;
+    margin: 50px auto 0;
+    text-shadow: 5px 4px 4px black;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 3em;
+}
